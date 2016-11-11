@@ -1,0 +1,27 @@
+For sign Up
+http://triusapp.com/olseva/restapi/signup.php?email=deepak111@yopmail.com&password=123456&username=deepak111&type=3
+
+user name Pass
+
+triusapp.com/adminer.php?username=triusapp_word&db=triusapp_mun&select=user
+usernam : triusapp_word
+pass : w[]!eaqq)}1^
+
+Olseva Rest Api
+
+http://triusapp.com/olseva/restapi/
+
+ http://triusapp.com/olseva
+
+
+Social Media Intigration Api
+
+http://triusapp.com/olseva/restapi/sociallogin.php?email=dev7600@gmail.com&username=debu
+	
+Vendor City
+http://triusapp.com/olseva/restapi/getsavedcities.php
+
+Vendor Skil
+http://triusapp.com/olseva/restapi/getsavedskills.php
+
+

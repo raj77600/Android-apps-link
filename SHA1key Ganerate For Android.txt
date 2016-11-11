@@ -1,0 +1,30 @@
+keytool -list -v -keystore C:\Users\rajender\.android\debug.keystore -alias androiddebugkey -storepass android -keypass android
+
+
+
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\rajender>cd C:\Program Files\Java\jdk1.8.0_111\bin
+
+C:\Program Files\Java\jdk1.8.0_111\bin>keytool -list -v -keystore C:\Users\rajen
+der\.android\debug.keystore -alias androiddebugkey -storepass android -keypass a
+ndroid
+Alias name: androiddebugkey
+Creation date: Nov 3, 2016
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: C=US, O=Android, CN=Android Debug
+Issuer: C=US, O=Android, CN=Android Debug
+Serial number: 1
+Valid from: Thu Nov 03 03:05:52 IST 2016 until: Sat Oct 27 03:05:52 IST 2046
+Certificate fingerprints:
+         MD5:  67:3C:59:8A:0A:8C:CA:F1:44:A9:79:41:08:C2:0E:18
+         SHA1: D6:F6:72:52:91:91:8F:6C:33:AC:B1:96:BA:1D:93:A7:F5:04:74:E3
+         SHA256: 7D:18:E2:59:96:5A:2A:05:18:C3:60:28:5A:78:47:F8:47:9E:84:29:43:
+FB:FF:1C:1C:A0:55:BB:93:4E:A1:7C
+         Signature algorithm name: SHA1withRSA
+         Version: 1
+
+C:\Program Files\Java\jdk1.8.0_111\bin>

@@ -1,0 +1,6 @@
+Recylerview And Data Get
+
+1.http://androidcss.com/android/fetch-json-data-android/
+2.http://www.android-examples.com/android-create-recyclerview-using-json-parsing-data/
+3.http://www.android-examples.com/android-create-recyclerview-using-json-parsing-data/
+4.http://104.236.109.7/

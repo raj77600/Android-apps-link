@@ -1,0 +1,8 @@
+1.how to change state if we select country.in sign up provider.
+2.how to service category and sub category.in also sign up button.
+3.search on button click provider search api not working.
+4.how to check user seeker and provider login screen not exist value to find out.
+5Update User Info in this api so what is the parameter location(String).which type of location we send you.in the form latitude and longtude plz clear that the parameter.and also how to get skill id.
+6.Get All Country parameternot required  this is fine but how to get Get All Languages Countrycode(), parameter and Get Language Name Using Sortcode is no undersatand me plz clear how is work.
+7For All Vendors Page api where it required all vendor.
+And some of point plz discuss with me .
